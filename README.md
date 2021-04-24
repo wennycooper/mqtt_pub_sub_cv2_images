@@ -4,6 +4,7 @@
 * Install mosquitto MQTT server 
 
     $ sudo apt-get install mosquitto
+    
     (in ubuntu, it will start mosquitto service)
 
 * Install MQTT python client "paho-mqtt"
@@ -12,7 +13,6 @@
 
 
 ## Run ##
-
 * In terminal1
 
     $ python ./sub.py
